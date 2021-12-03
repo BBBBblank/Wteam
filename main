@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <title>广东工业大学学生会</title>
+    <link rel="stylesheet" href="1.css">
+    <style>
+        .image{
+            border-radius: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a href="#" class="logo">广东工业大学学生会</a>
+        <ul class="navigation">
+            <li><a href="exam.html">首页</a></li>
+            <li><a href="https://weibo.com/gdutsu">博客</a></li>
+            <li><a href="联系方式.html">联系方式</a></li>
+            <li><a href="留言板.html">留言板</a></li>
+            <li><a href="关于我们.html">关于我们</a></li>
+        </ul>
+        <div class="search">
+            <input type="text" placeholder="Search">
+            <i class="fa fa-search" aria-hidden="true"></i>
+        </div>
+    </header>
+    <div class="banner">
+        <div class="content">
+            <h2>组织介绍</h2>
+            <p>
+                广东工业大学学生会是学校党委和省学联领导下，在校团委指导下的全校性学生组织。
+                以雁阵效应提炼出“雁阵”文化，寓意南飞的勇往直前与齐心协力，靠着团结协作精神，
+                凌空翱翔，飞向远方。广东工业大学学生会又称雁阵团队。广东工业大学学生会是中
+                华全国学生联合会委员团体单位、广东省学生联合会主席团单位，承认并遵守中华全
+                国学生联合会和广东省学生联合会的章程。
+            </p>
+            <a
+                href="https://baike.baidu.com/item/%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E4%BC%9A/2377888?fr=aladdin">阅读全文</a>
+        </div>
+
+        <img src="1.jpg" class="image">
+    </div>
+</body>
+
+</html>
